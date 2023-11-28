@@ -1712,12 +1712,12 @@ header {
       no-repeat center/20px 20px;
   }
   .mobile-link.mobile-nav-link {
-    background:url("https://www.iconfinder.com/icons/134216/download/svg/4096")
+    background:url("https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-1024.png")
       no-repeat center/20px 20px;
   }
   .mobile-link.mobile-nav-link.open {
     background: #fff
-      url("https://www.iconfinder.com/icons/134216/download/svg/4096")
+      url("https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-1024.png")
       no-repeat center/20px 20px;
   }
   #mini .mobile-link.mobile-search-link.open {
